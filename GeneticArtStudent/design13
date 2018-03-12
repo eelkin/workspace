@@ -1,0 +1,1 @@
+(PPSub (PPYCrCbRGB (PPAdd (PPCeil (PPAtan (PPYCrCbRGB (PPX)))) (PPCeil (PPYCrCbRGB (PPY))))) (PPAdd (PPCeil (PPAtan (PPYCrCbRGB (PPX)))) (PPYCrCbRGB (PPAbs (PPY)))))

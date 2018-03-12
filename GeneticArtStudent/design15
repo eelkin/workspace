@@ -1,0 +1,1 @@
+(PPDiv (PPExp (PPAdd (PPWrap (PPYCrCbRGB (PPExp (PPX)))) (PPLog (PPExp (PPAbs (PPY)))))) (PPDiv (PPCos (PPCos (PPCos (PPConstant 0.7642882297111091 -0.8064006438165032 -0.9185547231255697)))) (PPAbs (PPWrap (PPClip (PPY))))))

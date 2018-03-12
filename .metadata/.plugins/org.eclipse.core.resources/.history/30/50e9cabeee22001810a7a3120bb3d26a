@@ -1,0 +1,33 @@
+package headfirst.command.simpleremote;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.io.*;
+
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class LightOnCommandTest {
+	LightOnCommand lc;
+	ByteArrayOutputStream buffer;
+	@BeforeEach
+	void setUp() throws Exception {
+		lc = new LightOnCommand(new Light());
+		buffer = new ByteArrayOutputStream();
+		System.setOut(new PrintStream(buffer));
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+	}
+
+	@Test
+	void testExecute() {
+		lc.execute();
+		String actual = buffer.toString().trim();
+		String expected = "Light is on";
+		
+	}
+
+}

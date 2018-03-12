@@ -1,0 +1,39 @@
+package headfirst.command.simpleremote;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class LightTest {
+	Light light;
+	PrintStream os;
+	@BeforeEach
+	void setUp() throws Exception {
+		light = new Light();
+		os = new PrintStream(new ByteArrayOutputStream());
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+	}
+
+	@Test
+	void testOff() {
+		System.setOut(os);
+		light.off();
+		String actual = os.toString();
+		String expected = "Light is off";
+		//fail("Not yet implemented");
+	}
+
+	@Test
+	void testOn() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,1 @@
+(PPSub (PPColorPerlin (PPNegate (PPAbs (PPLog (PPX)))) (PPLog (PPSin (PPYCrCbRGB (PPY))))) (PPAdd (PPYCrCbRGB (PPAdd (PPCeil (PPAtan (PPYCrCbRGB (PPX)))) (PPCeil (PPYCrCbRGB (PPY))))) (PPNegate (PPWrap (PPX)))))

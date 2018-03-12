@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/evanelkin/Documents/workspace/MagicSquares"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/evanelkin/Documents/workspace/csc462ch7facade"/>
+			<item value="/Users/evanelkin/Documents/workspace/csc462ch6command"/>
+			<item value="/Users/evanelkin/Documents/workspace/csc462ch5singleton"/>
+			<item value="/Users/evanelkin/Documents/workspace/csc462ch3decorator"/>
+			<item value="/Users/evanelkin/Documents/workspace/csc462ch2observer"/>
+			<item value="/Users/evanelkin/Documents/workspace/CatMouseReinforcement"/>
+			<item value="/Users/evanelkin/Documents/workspace/GeneticArtStudent"/>
+			<item value="/Users/evanelkin/Documents/workspace/ID3TreeLearningStudent"/>
+			<item value="/Users/evanelkin/Documents/workspace/MancalaStudent"/>
+			<item value="/Users/evanelkin/Documents/workspace/AIAgentCodePart2"/>
+			<item value="/Users/evanelkin/Documents/workspace/MovieReviewSentiment"/>
+			<item value="/Users/evanelkin/Documents/workspace/Tiling"/>
+			<item value="/Users/evanelkin/Documents/workspace/JavaToyInterpreter"/>
+			<item value="/Users/evanelkin/Documents/workspace/MagicSquares"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

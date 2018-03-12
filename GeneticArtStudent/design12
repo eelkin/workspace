@@ -1,0 +1,1 @@
+(PPAdd (PPCeil (PPAtan (PPYCrCbRGB (PPX)))) (PPSub (PPColorPerlin (PPNegate (PPAbs (PPLog (PPX)))) (PPLog (PPSin (PPYCrCbRGB (PPY))))) (PPRGBYCrCb (PPMul (PPRGBYCrCb (PPFloor (PPCos (PPX)))) (PPSin (PPCeil (PPSin (PPX))))))))
