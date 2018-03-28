@@ -8,6 +8,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/evanelkin/Documents/workspace/csc462iterator"/>
 			<item value="/Users/evanelkin/Documents/workspace/csc462ch7facade"/>
 			<item value="/Users/evanelkin/Documents/workspace/csc462ch6command"/>
 			<item value="/Users/evanelkin/Documents/workspace/csc462ch5singleton"/>
